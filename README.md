@@ -4,3 +4,4 @@ goto(pageName()) or
 gotoAndRemoveAllPrevious(pageName())
 instead of writing long code 
 Navigator.of(context).push(MaterialPageRoute(builder: (context)=>pageName()));
+use navigator key in your main.dart file
